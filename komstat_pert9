@@ -1,0 +1,2 @@
+df <- data.frame(Nama= c(“Bila”, “Rani”, “Najwa”), Nilai= c(80, 70, 90), Kelompok = c(“IPA”, “IPS”, “IPA”))
+df
