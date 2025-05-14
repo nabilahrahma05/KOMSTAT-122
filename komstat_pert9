@@ -1,2 +1,3 @@
-df <- data.frame(Nama= c(“Bila”, “Rani”, “Najwa”), Nilai= c(80, 70, 90), Kelompok = c(“IPA”, “IPS”, “IPA”))
-df
+x <- c(1,2,3,4,5)
+y <- c(6,7,8,9,1)
+z <- x+y
