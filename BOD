@@ -1,3 +1,2 @@
 data(BOD)
 summary(BOD)
-str(BOD)
